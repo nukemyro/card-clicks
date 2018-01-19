@@ -1,0 +1,10 @@
+.cardify {
+  background-color:dodgerblue;
+  padding:12px;
+  color:white;
+  box-shadow: 2px 2px 4px black;
+}
+
+.card-title{
+  text-align:center;
+}

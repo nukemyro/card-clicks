@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { ClickCardComponent } from './click-card/click-card.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ClickCardComponent
   ],
   imports: [
     BrowserModule
